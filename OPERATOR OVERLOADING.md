@@ -32,8 +32,8 @@ To write a Python program to perform division of two complex numbers using the b
 ### PROGRAM
 
 ```
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 class Complex:
     def __init__(self, real, imag):
