@@ -26,8 +26,8 @@ To write a Python program to create a `Counter` class that can increment the val
 ### PROGRAM
 
 ```
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 class Counter:
     def __init__(self):
